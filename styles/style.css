@@ -213,4 +213,13 @@ button {
             transform: scale(1);
   }
 }
+
+@media screen and (max-width: 599px) {
+  .input {
+    max-width: 480px;
+  }
+  .input input {
+    max-width: 380px;
+  }
+}
 /*# sourceMappingURL=style.css.map */

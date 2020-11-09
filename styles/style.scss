@@ -188,3 +188,12 @@ button {
 
 
 }
+
+@media screen and(max-width:599px){
+    .input{
+        max-width: 480px;
+        input{
+            max-width: 380px;
+        }
+    }
+}
